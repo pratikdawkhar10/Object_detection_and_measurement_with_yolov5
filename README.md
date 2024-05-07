@@ -49,13 +49,13 @@ Node.js Dependencies
 2. Install Python dependencies:
 
     ```bash
-    pip install  (add all neccesary modules)
+    pip install tk pillow opencv-python numpy torch pyodbc
     ```
 
 3. Install Node.js dependencies (if applicable):
 
     ```bash
-    npm install (add all neccesary libraries)
+    npm install express multer mssql path body-parser
     ```
 
 ## Usage
