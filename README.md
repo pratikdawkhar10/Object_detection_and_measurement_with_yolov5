@@ -43,7 +43,7 @@ Node.js Dependencies
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/pratikdawkhar10/Object_detection_with_yolov5
+    git clone https://github.com/pratikdawkhar10/Object_detection_and_measurement_with_yolov5
     ```
 
 2. Install Python dependencies:
